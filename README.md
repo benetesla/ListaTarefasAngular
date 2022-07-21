@@ -1,27 +1,20 @@
-# BancoBENE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+# lista de tarefas angular
+A lista de tarefas a maior parte do tempo é semelhante a uma lista de compras. É um aglomerado de palavras que formam frases, muitas vezes sem grande destaque ou relevo. Mas a verdade é que temos tarefas com maior valor agregado do que outras.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Stack utilizada
 
-## Code scaffolding
+**Front-end:** Angular,SaSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Licença
 
-## Running unit tests
+[MIT](https://choosealicense.com/licenses/mit/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/benetesla)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bene-tesla/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
